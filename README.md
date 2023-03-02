@@ -1,1 +1,1 @@
-# sp_SplitColumn
+# sp_SplitColumn SQL Server
